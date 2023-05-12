@@ -1,0 +1,9 @@
+@import "../mixins/mixins";
+@import "../variables/variables";
+.header_text{
+    padding: 20px 0;
+    background: $headerbg_light_gray_color;
+    p{
+        @include paragraph
+    }
+}

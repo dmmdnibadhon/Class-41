@@ -1,0 +1,36 @@
+/* Common CSS start */
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  outline: 0;
+  box-sizing: border-box;
+}
+
+a {
+  text-decoration: none;
+  display: block;
+}
+
+ul, ol {
+  list-style: none;
+}
+
+h1, h2, h3, h4, h5, h6, ul, ol {
+  margin: 0;
+  padding: 0;
+}
+
+/* Poppins font end */
+/* Common CSS end */
+.header_text {
+  padding: 20px 0;
+  background: #F5F6F8;
+}
+.header_text p {
+  font-size: 14px;
+  font-weight: 400;
+  font-family: "Poppins", sans-serif;
+  color: #333333;
+}/*# sourceMappingURL=style.css.map */

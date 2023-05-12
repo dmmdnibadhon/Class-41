@@ -1,0 +1,7 @@
+@import "../variables/variables";
+@mixin paragraph {
+    font-size: 14px;
+    font-weight: 400;
+    font-family: $ff_poppins;
+    color: $paragraph_black_color;
+}
